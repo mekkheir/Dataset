@@ -2,7 +2,7 @@
 File Description
 v2g-FreeAttack.py : FreeAttack scenario python script for MiniV2G 
 FreeAttack.pcap : Communications generated  by free attack scenario, sniffed by wireshark.
-FreeAttackCSV.csv : FreeAttack.pcap translated to format csv with CICFlowMeter
+Free1.csv : FreeAttack.pcap translated to format csv with CICFlowMeter
 
 v2g-MitM.py : MitM Attack scenario python script for MiniV2G 
 MitMAttack.pcap : Communications generated  by MitM attack scenario, sniffed by wireshark.
